@@ -1,0 +1,35 @@
+Pistachio Classification & Fine Tuning With EfficientNet
+Table of Contents
+1 Introduction
+
+2 Importing Libraries
+
+2.1 Setting Path
+
+2.2 Importing Data
+
+3 Data Distribution of whole Data
+
+4 Siplting the Data into Train test and Val
+
+4.1 Distribution of Train Data
+
+4.2 Distribution of val Data 5 Displaying Images
+
+6 Image Data Generator
+
+7 Efficient Net
+
+8 Fine Tunning
+
+9 Call Backs
+
+10 Plotting the result
+
+11 Model Evaluation
+
+12 Prediction Comparison
+
+12 Confusion Matrix
+
+''This notebook is from Kaggle. It contains complete explanations along with the code.''
